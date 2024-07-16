@@ -66,13 +66,11 @@
         background-size: cover;
         background-position-x: center;
     }
- 
-}
-
-@media (max-width: 600px){
 
     .arrow{
-        display: none;
+        display: flex;
+        margin-top: 13rem;
     }
+ 
 }
 
